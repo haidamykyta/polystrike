@@ -108,10 +108,10 @@ const server = http.createServer((req, res) => {
 
 server.listen(PORT, () => {
   console.log(`\n  Landing:      http://localhost:${PORT}/`);
-  console.log(`  Hedger:       http://localhost:${PORT}/app/`);
   console.log(`  Backtester:   http://localhost:${PORT}/backtester/`);
-  console.log(`  Builder:      http://localhost:${PORT}/builder/`);
   console.log(`  Designer:     http://localhost:${PORT}/designer/`);
   console.log(`  Auto-Hedger:  http://localhost:${PORT}/auto-hedger/`);
+  console.log(`  (dev only) Hedger:  http://localhost:${PORT}/app/`);
+  console.log(`  (dev only) Builder: http://localhost:${PORT}/builder/`);
   console.log(`  API proxy active for: ${Object.keys(PROXY_MAP).join(', ')}\n`);
 });
