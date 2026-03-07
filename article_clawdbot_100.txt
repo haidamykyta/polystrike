@@ -1,0 +1,48 @@
+REFERENCE ARTICLE: I Set Up ClawdBot and Gave It $100 to Trade on Polymarket
+Pattern: P8 (I Tried It Myself / Personal Experiment)
+Source: @xmayeth
+
+HOOK: "Late last night I was scrolling X and came across a wild tweet about this ClawdBot. At 2 AM I thought: What if I try it with Polymarket?"
+
+RESULT: $100 -> $347 overnight (2.5x in one night)
+
+KEY TECHNIQUES:
+1. First person experiment - "I Set Up ClawdBot and Gave It $100"
+2. Small relatable amount - $100 (everyone has $100)
+3. Time-stamped diary - "2 AM", "5 AM", "closed laptop, went to sleep"
+4. Effort inversion - literally slept while bot worked
+5. Morning surprise - "$347 on the balance"
+6. Post-result analysis - investigated all trades (shows competence, not luck)
+7. Profit screenshot - real Polymarket dashboard
+8. Casual CTA - "X is full of articles about ClawdBot setup, feel free to learn"
+
+WHAT THE BOT DID (analysis section):
+- Pulled last 50+ 15m BTC resolutions, spotted momentum patterns
+- Scanned real-time X sentiment and news flow
+- Used simple TA (RSI, short-term moving averages)
+- Placed high-conviction bets during volatile Asia/EU session hours
+- Compounded profits: small wins -> bigger position sizes
+- Self-reflected on what worked (logged reasoning)
+
+WHY THIS PATTERN IS MOST RELATABLE:
+- Timeline storytelling reads like diary (2AM -> 5AM -> morning)
+- $100 = universally accessible ("I could do that")
+- Sleep = effort inversion ("I literally slept and made money")
+- Post-result analysis = competence, not just luck
+- Profit screenshot = ultimate visual proof
+- X Article format (long-form, no 280-char limit)
+
+PROMPT GIVEN TO BOT (reusable template):
+"You have control of a $100 wallet on Polymarket.
+Your objective: trade 15-minute BTC up/down markets and maximize profit over the next 24 hours.
+Trade conservatively, manage risk tightly, and protect capital at all costs.
+Assume this is your last $100.
+Trade as if your life depends on the result."
+
+REUSABLE FOR US:
+- Same experiment format with our BTC Oracle
+- $100 experiment on PM weather/sports/crypto markets
+- "I let AI trade for me" angle (trending topic)
+- Prompt template for any bot experiment post
+- Post-result analysis section adds credibility
+- Sleep/lazy effort = maximum shareability
