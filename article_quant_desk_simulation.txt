@@ -1,0 +1,59 @@
+REFERENCE ARTICLE: How to Simulate Like a Quant Desk - Every Model, Every Formula, Runnable Code
+Pattern: P10 (Deep Dive) + P4 (Professor) + "Story Arc" (new)
+Source: @coldvisionXYZ (Part 2 of Quant series)
+
+HOOK: "This isn't a list of techniques. It's a story - one that starts with a coin flip and ends with institutional-grade simulation engines."
+
+BANNER: Black background + white Brownian motion paths + handwritten white font = "Dark Academic" style
+
+KEY TECHNIQUES:
+1. Story arc framing - "starts with coin flip, ends with institutional engines"
+2. Each section breaks the previous one - escalation addiction loop
+3. Polymarket woven into EVERY section (not separate)
+4. Runnable Python code in every part (copy-paste ready)
+5. "Congratulations. You just did what every retail trader does." = reader callout
+6. Production Stack at end = bridges theory to practice
+7. Academic References = paper format authority signal
+8. Real PM contract examples in every math section
+
+STRUCTURE (8 parts, story arc):
+Part I: The Coin Flip That Breaks Everything - PM contract = not a simple coin flip
+Part II: Monte Carlo Foundation - basic MC + Brier Score evaluation
+Part III: When 100K Samples Fail - Importance Sampling for tail risk
+Part IV: Sequential MC / Particle Filters - real-time updating (election night)
+Part V: 3 Variance Reduction Tricks - antithetic + control variate + stratified
+Part VI: Copulas - correlation modeling, Gaussian copula failure (2008 crisis)
+Part VII: Agent-Based Simulation - zero-intelligence traders, order book dynamics
+Part VIII: Production Stack - complete system architecture
+
+KEY MATH/CODE SECTIONS:
+- Binary contract MC simulation (GBM)
+- Brier Score calibration metric
+- Importance Sampling for tail-risk contracts (100-10,000x variance reduction)
+- Particle Filter for live prediction market tracking
+- Stratified MC with antithetic variates
+- Gaussian vs Student-t vs Clayton copulas (tail dependence)
+- Agent-Based Market simulation (informed/noise/MM agents)
+- Full production stack: Data -> Model -> Risk -> Execution
+
+KEY QUOTES:
+- "Congratulations. You just did what every retail trader does."
+- "This isn't a theoretical problem."
+- "That's not a marginal improvement. It's the difference between 'we can't price this' and 'we're trading it.'"
+- "This is not optional in production. This is table stakes."
+- "If you're trading correlated PM contracts without modeling tail dependence, you're running a portfolio that will blow up in exactly the scenarios that matter most."
+
+REFERENCES (academic format):
+- Dalen (2025), Saguillo et al. (2025), Madrigal-Cianci et al. (2026)
+- Farmer, Patelli & Zovko (2005), Gode & Sunder (1993)
+- Kyle (1985), Glosten & Milgrom (1985)
+- Merton (1976), Linzer (2013), Gelman et al. (2020)
+
+REUSABLE FOR US:
+- Story arc format for PolyStrike educational articles
+- Dark Academic banner for advanced content
+- Particle filter section = standalone PM educational post
+- Copula tail dependence = "why your PM portfolio will blow up" post
+- Agent-based sim = "how PM actually works inside" article
+- Production stack = authority signal for any trading tool
+- Academic references = easy to add to any deep article
