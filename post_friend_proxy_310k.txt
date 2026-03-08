@@ -1,0 +1,94 @@
+POST ANALYSIS: @xmayeth "Friend Proxy + Hyperbolic Discount" (Pattern 13)
+Source: @xmayeth, 785 likes in 2h, video attached
+Date analyzed: Mar 8, 2026
+
+=== ORIGINAL POST ===
+
+Sent a friend a Polymarket wallet. Told him: this is definitely a quant.
+
+He made $310,000 in just 8 months.
+
+Friend replied: 'bro, this is info from Econ 101. Feed these formulas to your AI agent and it will replicate his results'.
+
+1 minute to set up. I checked.
+
+Started digging. Same markets as thousands of people. Same prices.
+
+But there was one thing he did differently. He held his position. Most people exit an event within 1-2 days. He sat until resolution.
+
+A formula from Econ 101. V = A / (1 + k * D).
+
+Sounds complicated. In reality - one sentence. And it explains why 89% of traders lose money for no reason.
+
+The brain devalues everything that's far away in time.
+
+Say you enter a market with +80% potential. Resolution in 10 days. After 2 days your position is up 30%.
+
+Brain recalculates: +80% in 10 days feels like +32% today. The gap between that and your +30% - a measly 2%. You exit.
+
+In reality you just walked away from another +50%.
+
+Impeachment. Entered at 12 cents. Day 3: price at 28. Position up 133%. Any normal person exits.
+
+Day 19: resolves at 91. +$34,000. If he exited on day three - $4,800. A 7x difference.
+
+Set up an agent in 1 minute. One instruction: don't exit until resolution.
+
+31 trades. +68%. When I traded manually - 47 trades and +16%.
+
+This is how Wall Street quants trade Polymarket. One formula and 1 minute to set up an agent.
+
+Try it, ask your agent to optimize your strategy and let me know how much your winrate improved.
+
+[VIDEO ATTACHED]
+
+=== ANALYSIS ===
+
+Pattern: P1 (Secret Source) + P4 (Professor) + P8 (I Tried It) + P12 (Doubter) = NEW P13
+
+Emotional triggers (cycling per paragraph):
+1. Greed ($310K) - hook
+2. FOMO (89% lose for no reason) - formula section
+3. Value (hyperbolic discount explanation) - psychology
+4. Authority (Impeachment trade with real numbers) - proof
+5. Trust (personal A/B test: 31 trades +68% vs 47 trades +16%) - results
+6. Identity (Wall Street quants) - closer
+
+NEW techniques identified:
+
+1. FRIEND PROXY framing
+- Not "I made $310K" (bragging)
+- Not "a quant made $310K" (distant)
+- "Sent a FRIEND a wallet" = social proof + relatability
+- Reader self-inserts as "the friend"
+- Most believable trust frame of all patterns
+
+2. TRIGGER CYCLING (paragraph by paragraph)
+- Each paragraph switches emotional trigger
+- Greed -> FOMO -> Value -> Authority -> Trust -> Identity
+- Holds attention through entire post (no single-note fatigue)
+
+3. EFFORT INVERSION with formula
+- Complex formula V = A / (1 + k * D) LOOKS hard
+- "One instruction: don't exit until resolution" IS easy
+- Maximum gap = maximum "aha moment"
+
+4. DUAL PROOF SYSTEM
+- Friend's proof: $310K / 8 months (social)
+- Personal proof: +68% vs +16% (scientific A/B)
+- Two independent proofs > one big claim
+
+5. VIDEO ATTACHMENT
+- X algorithm 2-3x boost for video
+- Shows setup = proves "1 minute" claim
+- Multimedia = more dwell time
+
+Hook formula: "I [gave/sent] a friend [simple thing]. He [massive result]. [Friend's dismissive reaction]. I checked."
+
+Why this may be the BEST @xmayeth post:
+- 4 patterns combined (P1+P4+P8+P12)
+- 6 emotional triggers rotating
+- Real formula + real trade + real A/B = triple authority
+- "Friend" = most relatable frame
+- Video = algorithm boost
+- CTA drives replies ("tell me your winrate") = engagement flywheel
