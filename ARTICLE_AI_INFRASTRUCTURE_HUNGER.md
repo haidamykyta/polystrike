@@ -32,20 +32,24 @@ This article is about the part of AI that nobody on Crypto Twitter discusses: th
 
 Here is what each hyperscaler is spending in 2026:
 
-| Company | 2026 CapEx | Financial Impact |
-|---------|-----------|-----------------|
-| Amazon | $200B | FCF: -$17B to -$28B |
-| Alphabet | $175-185B | FCF down 90% ($73B to $8B) |
-| Meta | $115-135B | Accelerating |
-| Microsoft | $120B+ | Accelerating |
-| Oracle | $50B | New entrant at scale |
-| **Total** | **~$690B** | **+36% vs 2025** |
+**Amazon** - $200B (FCF: -$17B to -$28B)
+**Alphabet** - $175-185B (FCF down 90%, from $73B to $8B)
+**Meta** - $115-135B (accelerating)
+**Microsoft** - $120B+ (accelerating)
+**Oracle** - $50B (new entrant at scale)
+**Total: ~$690B** - up 36% vs 2025
 
 For context: total hyperscaler CapEx was $256 billion in 2024. It jumped to $443 billion in 2025. Now $690 billion in 2026. That is a 170% increase in two years.
 
-Every single hyperscaler reports the same thing: they are supply-constrained, not demand-constrained. The demand for compute is growing faster than they can build it. Alphabet's CEO Sundar Pichai said the scale is "significant enough to cause concern internally" - but then pointed to a cloud backlog that surged 55% sequentially to over $240 billion.
+Every single hyperscaler reports the same thing: they are supply-constrained, not demand-constrained. The demand for compute is growing faster than they can build it.
 
-Translation: the market wants more AI than physically exists.
+Alphabet's CEO Sundar Pichai admitted the scale is "significant enough to cause concern internally." But in the same earnings call, he pointed to a cloud backlog that surged 55% sequentially to over $240 billion and said: "The risk of underinvesting is dramatically greater than the risk of overinvesting for us here."
+
+Amazon's CEO Andy Jassy put it bluntly: "We have not built enough. We see very strong signals in the demand." Morgan Stanley and Bank of America both project Amazon's free cash flow going negative in 2026 - and Jassy is accelerating spending anyway.
+
+Meta's Mark Zuckerberg called AI "the biggest technological shift in our lifetimes" and committed to $115-135 billion in CapEx despite having no clear path to monetizing most of it yet.
+
+Translation: the market wants more AI than physically exists. And the people writing the checks know it.
 
 ---
 
@@ -53,7 +57,7 @@ Translation: the market wants more AI than physically exists.
 
 Data centers consumed about 415 TWh globally in 2024. That was roughly 1.5% of global electricity.
 
-By 2030, the IEA projects data center consumption reaching 945 TWh in the base case - and potentially 1,300 TWh by 2035. Data center electricity consumption is growing at 15% per year, more than four times faster than the growth of all other sectors combined.
+By 2030, the IEA projects data center consumption reaching 945 TWh in the base case - and potentially 1,300 TWh by 2035. The IEA's executive director Fatih Birol warned: "The era of AI is upon us, bringing major implications for energy." Data center electricity consumption is growing at 15% per year, more than four times faster than the growth of all other sectors combined.
 
 In the US alone, data centers now consume 4% of all electricity. By 2030, that could reach 14%.
 
@@ -81,13 +85,12 @@ S&P Global released a landmark study in January 2026: "Copper in the Age of AI."
 
 Global copper demand will rise from 28 million metric tons in 2025 to 42 million metric tons by 2040. A 50% increase. Here is what is driving the additional 14 MMt:
 
-| Demand Vector | Share of Growth | MMt Added |
-|--------------|----------------|-----------|
-| Energy transition & electrification | 50% | ~7 MMt |
-| Core economic growth | 36% | ~5 MMt |
-| AI & data centers | 10% | ~1.4 MMt |
-| Defense | 4% | ~0.6 MMt |
-| **Total additional** | **100%** | **+14 MMt** |
+**Energy transition & electrification** - 50% of growth (~7 MMt)
+**Core economic growth** - 36% of growth (~5 MMt)
+**AI & data centers** - 10% of growth (~1.4 MMt)
+**Defense** - 4% of growth (~0.6 MMt)
+
+Daniel Yergin, Vice Chairman of S&P Global, called it "a collision of megatrends": "Artificial intelligence is set to supercharge what was already the single largest demand driver for copper - the energy transition."
 
 At first glance, AI is "only" 10% of the growth. But that 10% is the most concentrated, fastest-growing, and hardest to substitute. AI data center copper demand will account for 58% of total data center copper demand by 2030. And data centers are just one piece - the grid infrastructure they require (substations, transformers, transmission lines) multiplies the copper demand several times over.
 
@@ -99,7 +102,9 @@ Primary mined copper supply is projected to peak at 27 million metric tons in 20
 
 That leaves a 10 million metric ton gap by 2040.
 
-S&P Global's exact words: "Without meaningful expansion, the primary mined supply is set to peak in 2030." They call this a "systemic risk for global industries, technological advancement, and economic growth."
+S&P Global's report states: "Without meaningful expansion, the primary mined supply is set to peak in 2030." They call it "a systemic risk for global industries, technological advancement, and economic growth."
+
+Goldman Sachs analyst Nicholas Snowdon put a number on it: "Copper is the new oil. The market is sleepwalking into a supply crisis."
 
 You cannot build data centers without copper. You cannot mine copper fast enough. And you cannot substitute it - no other metal has copper's combination of conductivity, ductility, and corrosion resistance.
 
@@ -117,14 +122,12 @@ A single hyperscale data center uses 20,000-40,000 tonnes of copper. With hundre
 
 China and APAC dominate copper demand growth. According to Figure 3 from the S&P report:
 
-| Region | 2025-2040 Growth (MMt) | Share |
-|--------|----------------------|-------|
-| China | +4.8 | 34% |
-| APAC (ex. China) | +3.5 | 25% |
-| Europe | +1.9 | 14% |
-| USA | +1.4 | 10% |
-| Middle East | +0.5 | 4% |
-| Others | +1.8 | 13% |
+**China** - +4.8 MMt (34% of growth)
+**APAC (ex. China)** - +3.5 MMt (25%)
+**Europe** - +1.9 MMt (14%)
+**USA** - +1.4 MMt (10%)
+**Middle East** - +0.5 MMt (4%)
+**Others** - +1.8 MMt (13%)
 
 China and APAC combined represent ~60% of all copper demand growth. This is not just an American problem - it is a global competition for a finite resource.
 
@@ -144,8 +147,8 @@ Air conditioning alone is the largest single driver of copper demand in applianc
 Nuclear power supplied roughly 20% of US data center electricity in 2024. The appeal is obvious: stable baseload power with predictable costs and zero carbon emissions.
 
 Key developments:
-- Microsoft signed a deal to restart Three Mile Island Unit 1 - 837 MW of carbon-free power, enough for a campus running hundreds of thousands of GPUs
-- Google contracted Kairos Power for small modular reactors (SMRs) that can deploy in 3-5 years instead of 10-15
+- Microsoft signed a deal to restart Three Mile Island Unit 1 - 837 MW of carbon-free power. Microsoft's VP of Energy Bobby Hollis said: "This agreement is a major milestone in Microsoft's efforts to help decarbonize the grid."
+- Google contracted Kairos Power for small modular reactors (SMRs) that can deploy in 3-5 years instead of 10-15. Google's head of energy Michael Terrell called nuclear "a key pillar to meeting our 24/7 clean energy goals."
 - 63% of global investors now believe AI-related consumption will become a "material factor" in nuclear planning within the next decade
 
 But nuclear has a critical constraint: you cannot build a reactor in a year. Traditional plants take 10-15 years. Even SMRs need 3-5 years. The buildout timeline does not match AI's growth curve.
@@ -233,13 +236,15 @@ Think about it this way:
 
 The internet boom of the 2000s made a few software companies rich. But the real, steady money went to the companies laying fiber optic cables, building cell towers, and manufacturing routers. Most of those companies are still profitable today. Most of the dot-com software companies are dead.
 
-History does not repeat, but it rhymes.
+As Warren Buffett once said: "The best business during a gold rush is selling shovels." History does not repeat, but it rhymes.
 
 ---
 
 The question is not whether AI will transform the world. It will.
 
 The question is whether the physical infrastructure can keep up. Right now, it cannot. And every dollar of that gap is an opportunity.
+
+Or as Sam Altman put it: "The amount of compute that is going to be needed is more than anyone is planning for."
 
 ---
 
