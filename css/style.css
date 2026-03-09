@@ -1724,6 +1724,7 @@ footer {
   justify-content: space-between;
   position: relative;
   margin-top: 20px;
+  gap: 20px;
 }
 
 /* Connector line */
@@ -2096,7 +2097,57 @@ footer {
   color: #0A0E17;
 }
 
-/* --- HOW IT WORKS: stronger contrast for workflow steps --- */
+/* --- HOW IT WORKS: white cards with dark text --- */
+.timeline-section .section-header h2 {
+  background: none;
+  -webkit-background-clip: unset;
+  -webkit-text-fill-color: #ffffff;
+  background-clip: unset;
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+}
+
+.timeline-section .section-header p {
+  color: #e0e0e0;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.4);
+}
+
+.timeline-stage {
+  background: rgba(255, 255, 255, 0.95) !important;
+  border-radius: 16px !important;
+  padding: 28px 20px !important;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.timeline-stage:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 32px rgba(77, 107, 254, 0.2);
+}
+
+.stage-marker {
+  background: linear-gradient(135deg, #4D6BFE, #3B52CC) !important;
+  border: none !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(77, 107, 254, 0.35) !important;
+}
+
+.timeline-stage:hover .stage-marker {
+  background: linear-gradient(135deg, #5A78FF, #4D6BFE) !important;
+  border: none !important;
+}
+
+.stage-title {
+  color: #0A0E17 !important;
+  font-size: 16px !important;
+}
+
+.stage-desc {
+  color: #3a4260 !important;
+  font-size: 13px !important;
+}
+
 .workflow-step {
   background: rgba(10, 14, 23, 0.85);
   border-color: rgba(147, 166, 255, 0.12);
